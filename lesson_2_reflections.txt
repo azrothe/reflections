@@ -2,3 +2,11 @@ The staging area is different in that it allows you a space to sort out
 what you want to include in the repository before a commit is actually made.
 This gives you a chance to organize things the way you like before a
 commit is made.
+
+Branches would be helpful in any situation where there was a desire
+to try out experimental features that aren't yet relevant to the main
+update commits.
+
+The diagrams really help to understand the branch structure, because it
+allows tracing back from child commits to parent commits. You can then see
+how some commits are not accessible from certain checkout positions.
