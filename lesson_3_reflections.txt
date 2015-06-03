@@ -1,2 +1,7 @@
-You might want to use a remote repository when you are collaborating on a project and everyone on the project needs
-to access the latest commits.
+You might want to use a remote repository when you are collaborating on a 
+project and everyone on the project needs to access the latest commits.
+
+A clone is simply a copy of a repository. A fork is a special gitHub
+variant of a clone that credits the original author of the repository.
+A branch is a local series of commits that is separate from other commits
+in the repository that allows experimentation.
