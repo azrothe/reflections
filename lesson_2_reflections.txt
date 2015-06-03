@@ -10,3 +10,9 @@ update commits.
 The diagrams really help to understand the branch structure, because it
 allows tracing back from child commits to parent commits. You can then see
 how some commits are not accessible from certain checkout positions.
+
+Merging takes all the changes added in one branch to all the changes added
+to a second branch, and includes all the similarities while excluding anything
+removed from either branch. The diagram highlights the fact that the combined
+branch has as a parent both of the leading commits of the two branches that
+it was merged from.
