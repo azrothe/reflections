@@ -1,0 +1,4 @@
+The staging area is different in that it allows you a space to sort out
+what you want to include in the repository before a commit is actually made.
+This gives you a chance to organize things the way you like before a
+commit is made.
