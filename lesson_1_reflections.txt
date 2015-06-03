@@ -1,0 +1,17 @@
+The diff of the two files pinpointed the exact lines that were changed, 
+allowing a focus on only those lines, greatly speeding up the process of 
+finding a bug.
+
+By having access to the entire history of a file's edits, you can easily see
+where new bugs may have been introduced and at what point.
+
+Having to manually commit means knowing when it is most logical to do so.
+If there is too little or too much time in between commits, it will harder
+to make sense of any changes made.
+
+git log will show all the revisions of the file, and git diff will show
+what changes were made between 2 versions of the file
+
+You would know that you could go right to back to before the change was made
+giving you confidence that any change made will ultimately be safe. This
+allows you to boldly make those changes without fear.
