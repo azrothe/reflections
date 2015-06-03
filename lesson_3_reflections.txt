@@ -5,3 +5,8 @@ A clone is simply a copy of a repository. A fork is a special gitHub
 variant of a clone that credits the original author of the repository.
 A branch is a local series of commits that is separate from other commits
 in the repository that allows experimentation.
+
+It is readily apparent that collaborating using github is a lot easier
+than the old-fashioned way. You would have to manually share any changes
+made and comb through text files looking for what needs to be updated
+otherwise.
