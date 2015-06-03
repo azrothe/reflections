@@ -1,0 +1,2 @@
+You might want to use a remote repository when you are collaborating on a project and everyone on the project needs
+to access the latest commits.
